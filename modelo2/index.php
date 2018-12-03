@@ -4,7 +4,7 @@
 
 	if(isset($_GET['gclid'])){
 		$fuente = 'google ads';
-	}
+	} 
 	else if(isset($_GET['utm_source'])){
 		$fuente = explode('_', strtolower($_GET['utm_source']));
 		$fuente = $fuente[0];
