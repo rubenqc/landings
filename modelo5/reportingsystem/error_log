@@ -1,0 +1,2 @@
+[03-Dec-2018 16:52:26 UTC] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/opaloper/public_html/agentedeseguridad.pe/reportingsystem/sec.php on line 6
+[03-Dec-2018 16:52:26 UTC] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/opaloper/public_html/agentedeseguridad.pe/reportingsystem/sec.php on line 7
